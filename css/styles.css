@@ -2022,6 +2022,9 @@ a:hover.back-to-top {
     .cards-1 .card-image {
         width: 12.5rem;
     }
+    .cards-1 .card-image img{
+        width: 70px;
+    }
     /* end of description */
 
     /* Features */
